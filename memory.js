@@ -44,4 +44,4 @@ class Memory {
   }
 }
 
-module.exports = {memory:Memory};
+module.exports = {Memory};
